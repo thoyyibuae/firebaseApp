@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154853832529",
+    "project_id": "interview-test-fdb94",
+    "storage_bucket": "interview-test-fdb94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154853832529:android:0a765163e30fd41b4a4570",
+        "android_client_info": {
+          "package_name": "com.example.patientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154853832529-klngdmvi3d238kqsabb2bkshp4t2o2fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoza_gfY1dAqTE8NN5zQndY8uPkoZ_glA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154853832529-klngdmvi3d238kqsabb2bkshp4t2o2fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
